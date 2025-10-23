@@ -1,1 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "skills": ["Python", "UX Design"],
+    "interests": ["AI", "Education", "Human-Computer Interaction"],
+    "experience_level": "Intermediate"
+  },
+  {
+    "id": 2,
+    "name": "Ben",
+    "skills": ["Data Analysis", "Machine Learning"],
+    "interests": ["AI", "Learning Analytics"],
+    "experience_level": "Advanced"
+  },
+  {
+    "id": 3,
+    "name": "Cleo",
+    "skills": ["Graphic Design", "HTML", "Visualization"],
+    "interests": ["User Experience", "Gamified Learning"],
+    "experience_level": "Beginner"
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "skills": ["Project Management", "Statistics"],
+    "interests": ["AI Ethics", "Collaborative Learning"],
+    "experience_level": "Intermediate"
+  }
+]
 
