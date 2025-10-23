@@ -46,7 +46,7 @@ This is a **conceptual research prototype**, initiated as an **independent post-
 
 ---
 
-### How to Run (optional)
+### How to Run
 ```bash
 pip install -r requirements.txt
 python src/peer_matching.py
