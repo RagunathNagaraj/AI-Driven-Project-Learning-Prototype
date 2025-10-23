@@ -26,5 +26,6 @@ This is a **conceptual research prototype**, initiated as an **independent post-
 
 ---
 
-License
-© 2025 Ragunath Nagaraj
+*Note* License
+Copyright © 2025 Ragunath Nagaraj. All Rights Reserved.
+
