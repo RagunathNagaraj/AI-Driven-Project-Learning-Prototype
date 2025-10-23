@@ -15,26 +15,6 @@ The goal is to make university learning more **applied, data-informed, and colla
 
 These components collectively support **AI-driven collaboration**, **feedback personalization**, and **learning analytics research** focused on employability and real-world learning.
 
----
-
-### Repository Structure
-AI-Driven-Project-Learning-Prototype/
-│
-├── README.md ← Overview and usage guide
-├── /docs/ ← Research documentation and diagram
-│ ├── Research_Statement.pdf
-│ ├── system_architecture.png
-│
-├── /src/ ← Example scripts and core modules
-│ ├── peer_matching.py
-│ ├── project_recommendation.py
-│ ├── analytics_demo.ipynb
-│
-├── /data/ ← Synthetic data for demonstration
-│ ├── sample_learners.json
-│
-└── requirements.txt ← Dependencies
-
 
 ---
 
@@ -46,12 +26,5 @@ This is a **conceptual research prototype**, initiated as an **independent post-
 
 ---
 
-### How to Run
-```bash
-pip install -r requirements.txt
-python src/peer_matching.py
-
 License
-
-Open for academic and educational use.
 © 2025 Ragunath Nagaraj
