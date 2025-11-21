@@ -1,41 +1,40 @@
-# AI-Driven-Project-Learning-Prototype
+# AI-Driven Project Learning Prototype
 
-This research prototype investigates how artificial intelligence and learning analytics can facilitate project-based and collaborative learning in higher education.
+This research prototype investigates how artificial intelligence and learning analytics can facilitate innovation-driven, project-based, and collaborative learning in higher education.
 
 ---
 
 ## Objective
-Support applied learning by creating well-balanced student groups and providing data-driven feedback on participation and collaboration behaviors.
+Support applied and innovation-oriented learning by creating balanced interdisciplinary teams and providing data-driven feedback on participation, collaboration, and emerging skill development.
 
 ---
 
 ## Research Emphasis
-- Peer-matching algorithms based on interests and complementary abilities  
-- Task and project recommendations tailored to learner profiles  
-- Interaction-log analytics to monitor contribution, engagement, and teamwork assistance  
+- Peer-matching algorithms based on interests, complementary abilities, and project requirements  
+- Task and project recommendations tailored to learner profiles and innovation-driven work  
+- Interaction-log analytics to monitor contribution, engagement, teamwork behaviours, and collaboration quality  
 
-These components explore how intelligent collaboration support can enhance engagement and skill acquisition in university courses.
+These components explore how intelligent collaboration support can enhance engagement, creativity, and enterprise-related skill acquisition in digital learning environments.
 
 ---
 
 ## Technical Features
-- Web application for wide accessibility  
+- Web application for broad accessibility  
 - React-based interface with live updates  
-- Python analytics processes for recording and analyzing learner activities  
+- Python analytics pipelines for recording and analysing learner activities  
 - Version-controlled development and documentation  
 
 ---
 
 ## Current Progress
 - Conceptual prototype using synthetic data and an analytics demonstration  
-- Core features drafted and in the process of refinement  
-- Readied for future empirical validation in an educational context  
-
+- Core features drafted and undergoing refinement  
+- Prepared for future empirical validation in innovation-focused educational contexts  
 
 ---
 
 
 
-*Note* License
-Copyright © 2025 Ragunath Nagaraj. All Rights Reserved.
+
+**License:** © 2025 Ragunath Nagaraj. All Rights Reserved.
 
